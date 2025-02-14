@@ -8,45 +8,45 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Ayush Garg.</strong><br> Software Developer from Bangalore, India. If you want to implement your idea, then I am always ready for you. Being a professional developer means to understand all the requirements of the clients, and find the best way to implement it with highest quality.
         </p>
         "
   list:
     - label: "Age"
-      value: "24"
+      value: "27"
 
     - label: "Residence"
-      value: "USA"
+      value: "Bangalore, India"
 
-    - label: "Freelance"
-      value: "Available"
+    - label: "Open To Work"
+      value: "Yes"
 
-    - label: "Address"
-      value: "California, USA"
+    - label: "Location Preference"
+      value: "Bangalore, Hydrabad, Pune, Indore"
 
 ### Services [ services ]
 services:
   title: "My Services"
   items:
     - icon: "code"
-      name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
+      name: "Software Development"
+      text: "End-to-end solutions combining front-end and back-end"
       h_line: 1
 
-    - icon: "music-note"
-      name: "Music Writing"
-      text: "Music copying, transcription, arranging and composition services."
+    - icon: "code"
+      name: "Cloud and DevOps"
+      text: "Build/migrate apps on AWS, Azure, or Google Cloud. Automate deployment with Jenkins, GitHub Actions, or GitLab CI. Docker/Kubernetes for scalable solutions. "
       h_line: 1
 
-    - icon: "speakerphone"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail and web."
-      h_line: 0
+    - icon: "code"
+      name: "APIs & Integrations"
+      text: "Develop and document APIs. Connect apps to payment gateways, social media, or SaaS tools."
+      h_line: 1
 
-    - icon: "ios-game-controller-b"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios games."
-      h_line: 0
+    - icon: "code"
+      name: "Enterprise Solutions"
+      text: "Tailored CRM, ERP, or inventory systems. Update outdated systems to modern tech stacks. Design scalable, modular architectures."
+      h_line: 1
 
 ### Pricing [ pricing ]
 pricing:
@@ -122,11 +122,11 @@ facts:
       name: "1 000 Cups of coffee"
 
     - icon: "flag"
-      name: "10 Countries Visited"
+      name: "5 Countries Visited"
 
 ### Clients [ clients ]
 clients:
-  title: "Clients"
+  title: "Companies worked with"
   items:
     - url: "https://www.google.com"
       image: "assets/img/clients/client_1.png"
@@ -165,68 +165,53 @@ resume:
   experience:
     title: "Experience"
     icon: "briefcase"
-    items:
-      - year: "2013 - Present"
-        role: "Art Director"
-        company: "Facebook Inc."
-        text: "Collaborate with creative and development teams on the execution of ideas."
+    items:  
+      - year: "2022 - Present"
+        role: "Software Developer 3"
+        company: "Jio Platforms Pvt. Ltd."
+        text: "Working on Real-time Speech to Text Systems and creating Batch processing frameworks."
         active: 1
         h_line: 1
 
       - year: "2011 - 2012"
-        role: "Front-end Developer"
-        company: "Google Inc."
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+        role: "Software Developer 2"
+        company: "American Express"
+        text: "Built Application for KYC Automation of UK and France Market."
         active: 0
         h_line: 1
 
       - year: "2009 - 2010"
-        role: "Senior Developer"
-        company: "Abc Inc."
-        text: "Optimize website performance using latest technology."
+        role: "Software Developer"
+        company: "American Express"
+        text: "Automation for relevant Ticket generation based on Email classification for around 100 Mailboxes."
         active: 0
         h_line: 0
   education:
     title: "Education"
     icon: "university"
     items:
-      - year: "2006 - 2008"
-        institution: "Art University"
-        city: "New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2021 - 2023"
+        institution: "Birla Institute of Technology and Science"
+        city: "Pilani"
+        text: "M. Tech, Software Engineering"
         h_line: 1
 
-      - year: "2005 - 2006"
-        institution: "Programming Course"
-        city: "Paris"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+      - year: "2015 - 2019"
+        institution: "Vellore Institute of Technology"
+        city: "Vellore"
+        text: "B. Tech, Computer Science"
         h_line: 1
 
-      - year: "2004 - 2005"
-        institution: "Web Design Course"
-        city: "London"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+      - year: "2009 - 2014"
+        institution: "Delhi Public School"
+        city: "Bhopal"
+        text: "Scooling till +2"
         h_line: 0
 
 ### Skills [ skills ]
 skills:
   title: "My Skills"
   columns:
-    - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Design"
-      icon: "easel"
-      items:
-        - label: "Web Design"
-          value: "90" #0-100 progress in %
-
-        - label: "Write Music"
-          value: "65" #0-100 progress in %
-
-        - label: "Photoshop"
-          value: "75" #0-100 progress in %
-
-        - label: "Graphic Design"
-          value: "85" #0-100 progress in %
 
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "Languages"
@@ -235,58 +220,62 @@ skills:
         - label: "English"
           value: "90" #0-100 progress in %
 
-        - label: "German"
-          value: "60" #0-100 progress in %
-
-        - label: "Italian"
-          value: "30" #0-100 progress in %
-
-        - label: "French"
-          value: "70" #0-100 progress in %
+        - label: "Hindi"
+          value: "90" #0-100 progress in %
 
     - type: "circles" #skills progress type - default, dotted, circles, list
       title: "Coding"
       icon: "code"
       items:
-        - label: "WordPress"
+        - label: "Python"
           value: "90" #0-100 progress in %
 
-        - label: "PHP / MYSQL"
+        - label: "Java"
           value: "75" #0-100 progress in %
 
-        - label: "Angular / JavaScript"
-          value: "85" #0-100 progress in %
+        - label: "Docker"
+          value: "80" #0-100 progress in %
 
-        - label: "HTML / CSS"
+        - label: "MicroServices"
           value: "95" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       icon: "android-list"
       items:
-        - label: "Website hosting"
+        - label: "Software Development"
           value: "" #0-100 progress in %
 
-        - label: "iOS and android apps"
+        - label: "Realtime, Batching, Distributed, Enterprise Systems"
+          value: "" #0-100 progress in %
+        
+        - label: "Automated Deployments with CI/CD using Jenkins, Gitlab etc"
           value: "" #0-100 progress in %
 
-        - label: "Create logo design"
+        - label: "Containerization using Docker"
           value: "" #0-100 progress in %
 
-        - label: "Design for print"
+        - label: "Kubernetes"
           value: "" #0-100 progress in %
 
-        - label: "Modern and mobile-ready"
+        - label: "Microservice Architecture"
           value: "" #0-100 progress in %
 
-        - label: "Advertising services include"
+        - label: "API and Integrations with Pipeline Development"
           value: "" #0-100 progress in %
 
-        - label: "Graphics and animations"
+        - label: "Database Management and Migrations"
           value: "" #0-100 progress in %
 
-        - label: "Search engine marketing"
-          value: "" #0-100 progress in %
+    - type: "default" #skills progress type - default, dotted, circles, list
+      title: "Design"
+      icon: "easel"
+      items:
+        - label: "Web Design"
+          value: "90" #0-100 progress in %
+
+        - label: "App Design"
+          value: "65" #0-100 progress in %
 
 ### Portfolio [ portfolio ]
 portfolio:
@@ -320,14 +309,11 @@ blog:
 contacts_info:
   title: "Get in Touch"
   list:
-    - label: "Address"
-      value: "California, USA"
+    - label: "Current Location"
+      value: "Bangalore, India"
 
     - label: "Email"
-      value: "adlard@example.com"
-
-    - label: "Phone"
-      value: "+123 654 78900"
+      value: "ayushgarg05@gmail.com"
 
     - label: "Freelance"
       value: "Available"

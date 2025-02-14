@@ -14,10 +14,10 @@ main:
     sections:
         - about
         - services
-        - pricing
-        - facts
-        - clients
-        - testimonials
+        # - pricing
+        # - facts
+        # - clients
+        # - testimonials
   
   #resume card
   - title: "Resume"
@@ -28,18 +28,18 @@ main:
         - skills
   
   #works card
-  - title: "works"
-    icon: "paintbrush"
-    slug: "works"
-    sections:
-        - portfolio
+  # - title: "works"
+  #   icon: "paintbrush"
+  #   slug: "works"
+  #   sections:
+  #       - portfolio
   
   #blog card
-  - title: "Blog"
-    icon: "chatbox-working"
-    slug: "blog"
-    sections:
-        - blog
+  # - title: "Blog"
+  #   icon: "chatbox-working"
+  #   slug: "blog"
+  #   sections:
+  #       - blog
   
   #contact card
   - title: "Contact"

@@ -482,12 +482,12 @@ $(function () {
 		Sidebar Show/Hide
 	*/
 
-	$('header, .profile').on('click', '.menu-btn', function(){
-		$('.s_overlay').fadeIn();
-		$('.content-sidebar').addClass('active');
-		$('body,html').addClass('sidebar-open');
-		return false;
-	});
+	// $('header, .profile').on('click', '.menu-btn', function(){
+	// 	$('.s_overlay').fadeIn();
+	// 	$('.content-sidebar').addClass('active');
+	// 	$('body,html').addClass('sidebar-open');
+	// 	return false;
+	// });
 	$('.content-sidebar, .container').on('click', '.close, .s_overlay', function(){
 		$('.s_overlay').fadeOut();
 		$('.content-sidebar').removeClass('active');
