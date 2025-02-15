@@ -8,7 +8,7 @@
 ### param "buttons" - Buttons, icon class you can find here https://ionicons.com/v4/
 
 main:
-  bgimage: "assets/img/bg.jpeg"
+  bgimage: "assets/img/bg.JPEG"
   photo: ""
   name: "Ayush Garg"
   typed:
