@@ -39,7 +39,8 @@
 			</div>
 			<div class="resume-items">
 				{% for item in content.education.items %}
-				<div class="resume-item{% if item.h_line == 1 %} border-line-h{% endif %}">
+				<!-- <div class="resume-item{% if item.h_line == 1 %} border-line-h{% endif %}"> -->
+				<div class="resume-item{% if item.h_line == 1 %} border-line-h{% endif %}{% if item.active == 1 %} active{% endif %}">
 					<div class="date">{{ item.year }}</div>
 					<div class="name">{{ item.institution }}</div>
 					<div class="company">{{ item.city }}</div>
