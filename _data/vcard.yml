@@ -14,7 +14,7 @@ main:
   typed:
     - text: "Software Developer"
     - text: "Backend Engineer"
-    - text: "Freelancer"
+    # - text: "Freelancer"
   social:
     # - title: "GitHub"
     #   icon: "fab fa-github"

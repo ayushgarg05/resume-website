@@ -8,7 +8,8 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ayush Garg.</strong><br> Software Developer from Bangalore, India. If you want to implement your idea, then I am always ready for you. Being a professional developer means to understand all the requirements of the clients, and find the best way to implement it with highest quality.
+          Hello! I’m Ayush Garg.</strong><br> Software Developer from Bangalore, India. Being a professional developer means to understand all the requirements of the clients, and find the best way to implement it with highest quality. I have 5+ years of experience in development. Developing products for Enterprise, Distributed, Realtime and Batching Systems gave me profound knowledge of Engineering and Design. 
+          <strong>Hello! I’m Ayush Garg.</strong><br>A Software Developer based in Bangalore, India. With over 5 years of experience in development, I have honed my skills in understanding client requirements and delivering high-quality solutions. I have worked extensively on products for Enterprise, Distributed, Realtime, and Batching Systems, which has deepened my understanding of Engineering and Design. <br>I possess strong technical and design skills with expertise in Python, Java, React, and more. Additionally, I have a solid grasp of DevOps, enabling me to take projects from development to live deployment seamlessly. My comprehensive skill set ensures that I can deliver efficient, scalable, and robust solutions for any challenge.
         </p>
         "
   list:
@@ -26,7 +27,7 @@ about:
 
 ### Services [ services ]
 services:
-  title: "My Services"
+  title: "My Expertise"
   items:
     - icon: "code"
       name: "Software Development"
@@ -318,8 +319,8 @@ contacts_info:
     - label: "Email"
       value: "ayushgarg05@gmail.com"
 
-    - label: "Freelance"
-      value: "Available"
+    # - label: "Freelance"
+    #   value: "Available"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
